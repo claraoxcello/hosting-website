@@ -166,8 +166,8 @@
 
             <div class="links">
                 <a href="https://it.telkomuniversity.ac.id/" target="_blank">sumber materi</a>
-                <a href="https://example.com/tutorial-hosting.pdf" download>Tutorial Hosting</a>
-                <a href="https://example.com/tutorial-hosting.pdf" download>Isi web</a>
+                <a href="https://drive.google.com/file/d/1JXdwesV9WJ7UlDgbISn9PY1_NCqEs56o/view?usp=drive_link" download>Tutorial Hosting</a>
+                <a href="https://drive.google.com/file/d/1fKHjQEBPqT3cd0gnP2lqjhm2KByPd2gk/view?usp=drive_link" download>Isi web</a>
 
             </div>
         </div>
